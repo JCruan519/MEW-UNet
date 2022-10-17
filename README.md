@@ -1,0 +1,2 @@
+# MEW-UNet
+This is the official code repository for ”MEW-UNET: IS SELF-ATTENTION ALL YOU NEED FOR MEDICAL IMAGE SEGMENTATION?“
