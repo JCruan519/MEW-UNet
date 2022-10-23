@@ -9,19 +9,19 @@ This is the official code repository for "Multi-axis Representation Learning in 
 
 - data
   - Synapse
-  - test_vol_h5
-    - case0001.npy.h5
-    - case0002.npy.h5
-    - case0003.npy.h5
-    - case0004.npy.h5
-    - case0008.npy.h5
-    - case0022.npy.h5
-    - case0025.npy.h5
-    - case0029.npy.h5
-    - case0032.npy.h5
-    - case0035.npy.h5
-    - case0036.npy.h5
-    - case0038.npy.h5
+    - test_vol_h5
+      - case0001.npy.h5
+      - case0002.npy.h5
+      - case0003.npy.h5
+      - case0004.npy.h5
+      - case0008.npy.h5
+      - case0022.npy.h5
+      - case0025.npy.h5
+      - case0029.npy.h5
+      - case0032.npy.h5
+      - case0035.npy.h5
+      - case0036.npy.h5
+      - case0038.npy.h5
 
 **3. Test our model.**
 
