@@ -1,6 +1,11 @@
 # MEW-UNet
 This is the official code repository for "Multi-axis Representation Learning in Frequency Domain for Medical Image Segmentation"
 
+**0. Main Environments**
+- python 3.8
+- pytorch 1.8.0
+- torchvision 0.8.0
+
 **1. Prepare the dataset.**
 
 - Synapse dataset can be found at [the repo of TransUnet](https://github.com/Beckschen/TransUNet). 
