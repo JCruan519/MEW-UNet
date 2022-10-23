@@ -25,10 +25,12 @@ This is the official code repository for "Multi-axis Representation Learning in 
 
 **3. Test our model.**
 
-'''
+```
 cd MEW-UNet
+```
+```
 python test.py
-'''
+```
 
 After testing about 20 mins, you can obtain the results in './test_log/test_log/'
 
