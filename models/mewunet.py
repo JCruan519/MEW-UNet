@@ -188,7 +188,6 @@ class PreNorm(nn.Module):
         return self.fn(x)
 
 class MEWB(nn.Module):
-    '''TRM_block is the MEWB in our paper'''
     def __init__(self, dim, depth, mlp_ratio=4):
         super().__init__()
         self.layers = nn.ModuleList([])
