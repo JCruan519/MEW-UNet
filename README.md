@@ -6,9 +6,13 @@ This is the official code repository for "Multi-axis Representation Learning in 
 - pytorch 1.8.0
 - torchvision 0.8.0
 
-**1. Prepare the dataset.**
+**1. Prepare the dataset and our weights.**
 
 - Synapse dataset can be found at [the repo of TransUnet](https://github.com/Beckschen/TransUNet). 
+
+- Our weights of the Synapse dataset can be download at [here](https://pan.baidu.com/s/1ERqX_qBhag4xlZ5Wh6RnCw), with a password of *ex8x*
+
+- After download the weights, you could put weights into this file('./our_weights/')
 
 **2. Test data folder format**
 
