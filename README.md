@@ -1,5 +1,5 @@
 # MEW-UNet
-This is the official code repository for "Multi-axis Representation Learning in Frequency Domain for Medical Image Segmentation"
+*This is the official code repository for "Multi-axis Representation Learning in Frequency Domain for Medical Image Segmentation"*
 
 **0. Main Environments**
 - python 3.8
