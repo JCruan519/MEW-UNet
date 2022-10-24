@@ -10,7 +10,7 @@ This is the official code repository for "Multi-axis Representation Learning in 
 
 - Synapse dataset can be found at [the repo of TransUnet](https://github.com/Beckschen/TransUNet). 
 
-- Our weights of the Synapse dataset can be download at [here](https://pan.baidu.com/s/1ERqX_qBhag4xlZ5Wh6RnCw), with a password of *ex8x*
+- Our weights of the Synapse dataset can be download at [here](https://pan.baidu.com/s/1ERqX_qBhag4xlZ5Wh6RnCw), with a password of **ex8x**
 
 - After download the weights, you could put weights into this file('./our_weights/')
 
