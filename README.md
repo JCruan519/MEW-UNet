@@ -12,7 +12,7 @@
 
 - Our weights of the Synapse dataset can be download [here](https://pan.baidu.com/s/1ERqX_qBhag4xlZ5Wh6RnCw), with a password of **ex8x**
 
-- After download the weights, you could put weights into this file('./our_weights/')
+- After downloading the weights, you could put weights into this file('./our_weights/')
 
 **2. Test data folder format**
 
